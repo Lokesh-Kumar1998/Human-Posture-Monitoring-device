@@ -1,4 +1,7 @@
 # Human-Posture-Monitoring-device
+
+(Click on My Report.pdf to see full implementation)
+
 The last two decades have witnessed an exponential growth and tremendous developments
 in wireless technologies and systems, and their associated applications.Posture is the way
 people carry themselves, in the way they stand, sit, walk and perform tasks, and this
